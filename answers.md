@@ -38,4 +38,26 @@ dossier img         C'est utilisée dans la documentation du projet. Par
 
 ### Task 7
 
+1        branche parallèle au main pour le devellopement du programme
+
+2        Commit Hash unique version court 
+
+3        c'est le message que l'on met lors d'un commit 
+
+4        C'est le nom d'utilisatuer et son mail de du programmeur
+
+5     c'est le numéro dans la version main
+
+6        C'est la version final de la brnache donc du programme
+
+7        c'est une branche en parrallele a celle du dévellopement qui par depuis une            version plus deveeloper du main
+
+8        c'est la version la plus complete du main
+
+9        c'est la branche complete de devellopement du programme en parrallèle de la             branche main
+
+10        C'est la branche main
+
+
+
 ![Gitgraph](img/gitgraph.svg)
