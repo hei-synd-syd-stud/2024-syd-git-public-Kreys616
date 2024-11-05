@@ -32,9 +32,7 @@ dossier img         C'est utilisée dans la documentation du projet. Par
 
 ### Task 6
 
-
-
-
+                     quand on checkout commit depuis le initial commit quand on retourne sur                      le dossier on voit que le fichier README n'est plus la mais quand on refait                      checkout commit sur le derniere version des choses commité donc le                       fichier README réappartait.
 
 ## Gitgraph
 
