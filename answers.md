@@ -36,22 +36,6 @@ dossier img         C'est utilisée dans la documentation du projet. Par
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Gitgraph
 
 ### Task 7
